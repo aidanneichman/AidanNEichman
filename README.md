@@ -10,9 +10,9 @@ Aidan</a></h1>
 
 - 🔭 I’m currently working on <a href="https://coms-bc3997-sp23.github.io/website-AidanNEichman/" target="blank">Classification of Home Plate Umpires' Incorrect Calls using ML!</a>
 
-- 🤝 I’m looking for a SWE or DA Internship for Summer 2023.
+- 🤝 I’m looking for a SWE or DA Internship for Summer 2024.
 
-- 🌱 I’m currently learning more Python & C++.
+- 🌱 I’m currently learning more Python, SQL, & C++.
 
 - 📝 I regularly write articles on [https://www.thecolumbiasciencereview.com/](https://www.thecolumbiasciencereview.com/)
 
