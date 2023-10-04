@@ -18,7 +18,7 @@ Aidan</a></h1>
 
 - 📫 How to reach me **ane2123@columbia.edu**
 
-- 📄 Know about my experiences <a href="https://github.com/AidanNEichman/resume/raw/main/Aidan%20Eichman%20Resume%20(1).pdf" target="blank">Resume</a>
+- 📄 Know about my experiences from my <a href="https://github.com/AidanNEichman/resume/raw/main/Aidan%20Eichman%20Resume%20(1).pdf" target="blank">resume</a>
 <br/>
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
