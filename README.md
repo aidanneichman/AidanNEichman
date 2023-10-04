@@ -14,7 +14,7 @@ Aidan</a></h1>
 
 - 🌱 I’m learning more Python, SQL, & C++.
 
-- 📝 I'm currently working as a Software Developer for href="https://www.karulearning.com/" target="blank">Karu Learning</a>
+- 📝 I'm currently working as a Software Developer for <a href="https://www.karulearning.com/" target="blank">Karu Learning</a>
 
 - 📫 How to reach me **ane2123@columbia.edu**
 
