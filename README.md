@@ -14,7 +14,9 @@ Aidan</a></h1>
 
 - 🌱 I’m learning more Python, SQL, & C++.
 
-- 📝 I'm currently working as a Software Developer for <a href="https://www.karulearning.com/" target="blank">Karu Learning</a>
+- 📝 I'm currently working as a Software Developer for <a href="https://coms-bc3997-sp23.github.io/website-AidanNEichman/" target="blank">Classification of Home Plate Umpires' Incorrect Calls using ML!</a>
+
+- <a href="https://www.karulearning.com/" target="blank">Karu Learning</a>
 
 - 📫 How to reach me **ane2123@columbia.edu**
 
