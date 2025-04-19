@@ -26,7 +26,7 @@
 
 - 📫 Reach me at **ane2123@columbia.edu**
 
-- 📄 Learn more in my <a href="https://github.com/AidanNEichman/resume/raw/main/Aidan%20Eichman%20Resume%20(1).pdf" target="blank">resume</a>
+- 📄 Learn more in my <a href="[https://github.com/AidanNEichman/resume/raw/main/Aidan%20Eichman%20Resume%20(1).pdf](https://github.com/aidanneichman/resume/blob/main/Aidan%20Eichman%20Resume%20(2025).pdf)" target="blank">resume</a>
 
 <br/>
 
